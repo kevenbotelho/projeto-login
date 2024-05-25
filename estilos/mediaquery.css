@@ -36,4 +36,12 @@
         float: right;
         width: 50%;
     }
+
+    div#Formulario > h1{
+        font-size: 2em;
+        
+    }
+    div#formulario > p{
+        font-size: 1.2em;
+    }
 }
